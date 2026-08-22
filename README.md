@@ -67,6 +67,7 @@
 - 🐍 Advanced Python
 - 🤖 Generative AI
 - 🧠 Machine Learning
+
 ---
 
 <table width="100%">
@@ -86,23 +87,6 @@ ruchiranagre@gmail.com
 📱 <b>Phone:</b><br>
 +91 7666903251
 
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<h2>📫 Contact Me</h2>
-
-📧 <b>Email:</b>
-<a href="mailto:ruchiranagre@gmail.com">
-ruchiranagre@gmail.com
-</a>
-
-<br><br>
-
-📱 <b>Phone:</b>
-+91 7666903251
-
 </td>
 
 <td width="50%" valign="top">
@@ -120,9 +104,6 @@ ruchiranagre@gmail.com
 </p>
 
 </td>
-
-</tr>
-</table>
 
 </tr>
 </table>
