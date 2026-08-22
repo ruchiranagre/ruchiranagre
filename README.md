@@ -27,6 +27,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Core Concepts
+
+![OOP](https://img.shields.io/badge/OOP-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-6A1B9A?style=for-the-badge&logo=leetcode&logoColor=white)
+
 ### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -75,33 +81,29 @@
 
 <td width="50%" valign="top">
 
-<h2>📫 Contact Me</h2>
+<h3>📫 Contact Me</h3>
 
-📧 <b>Email:</b><br>
-<a href="mailto:ruchiranagre@gmail.com">
-ruchiranagre@gmail.com
-</a>
+📧 <a href="mailto:ruchiranagre@gmail.com">ruchiranagre@gmail.com</a>
 
 <br><br>
 
-📱 <b>Phone:</b><br>
-+91 7666903251
+📱 +91 7666903251
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h3>🌐 Connect With Me</h3>
 
-<p align="center">
-  <a href="https://github.com/ruchiranagre">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ruchira-nagre-6a0484291/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+<a href="https://github.com/ruchiranagre">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/ruchira-nagre-6a0484291/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </td>
 
