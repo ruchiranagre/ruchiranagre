@@ -68,11 +68,11 @@
 
 ## 📚 Currently Learning
 
-- 🧩 Data Structures & Algorithms
-- 🌐 Web Technologies
-- 🐍 Advanced Python
-- 🤖 Generative AI
-- 🧠 Machine Learning
+-  Data Structures & Algorithms
+-  Web Technologies
+-  Advanced Python
+-  Generative AI
+-  Machine Learning
 
 ---
 
